@@ -33,4 +33,5 @@ var theFunk = funkyFunction(); {
   return theFunk()
 }
 
+console.log(theFunk)
 

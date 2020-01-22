@@ -30,7 +30,9 @@ var funkyFunction = function() {
 // NOTE: 
 
 var theFunk = funkyFunction(); {
-  funkyFunction()
+  funkyFunction(); {
+    funtion()
+  }
 }
 
 theFunk()

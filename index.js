@@ -33,5 +33,6 @@ var theFunk = funkyFunction(); {
   return funkyFunction()
 }
 
+theFunk()
 console.log(theFunk())
 
